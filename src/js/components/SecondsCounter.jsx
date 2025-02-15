@@ -14,13 +14,13 @@ const SecondsCounter = (props) => {
         
     
     <h1>Seconds </h1>
-   
-<p className="digit">{unidades}</p>
-<p className="digit">{decenas}</p>
-<p className="digit">{centenas}</p>
-<p className="digit">{unidadesmillar}</p>
-<p className="digit">{decenasmillar}</p>
+
 <p className="digit">{centenasmillar}</p>
+<p className="digit">{decenasmillar}</p>
+<p className="digit">{unidadesmillar}</p>
+<p className="digit">{centenas}</p>
+<p className="digit">{decenas}</p>
+<p className="digit">{unidades}</p>
 
 <h1> Counter</h1>
     </div>
